@@ -4,7 +4,7 @@
 </head>
 <body>
       ------- VENCIMENTRO -------
-<form action="${pageContext.request.contextPath}/login" method="post">
+<form action="${pageContext.request.contextPath}/menu.jsp" method="post">
 	<br><br>
 	<div class="field">
 		Usuário:<br />
