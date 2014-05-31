@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:04 -0300] "GET /vencimetro/ HTTP/1.1" 200 923 http-bio-8080-exec-1 2153
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:04 -0300] "GET /vencimetro/javascripts/application.js HTTP/1.1" 200 - http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:04 -0300] "GET /vencimetro/javascripts/jquery.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-2 10
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:04 -0300] "GET /vencimetro/stylesheets/application.css HTTP/1.1" 200 48 http-bio-8080-exec-5 12
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:05 -0300] "GET /vencimetro/stylesheets/scaffold.css HTTP/1.1" 200 916 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [31/May/2014:13:05:09 -0300] "GET /vencimetro/users HTTP/1.1" 200 1846 http-bio-8080-exec-9 1068
