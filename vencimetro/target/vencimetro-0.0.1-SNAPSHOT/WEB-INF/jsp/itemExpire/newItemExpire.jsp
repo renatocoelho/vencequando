@@ -1,6 +1,0 @@
-<head>
-	<title>ItemExpire [new]</title>
-</head>
-<body>
-	<%@include file="form.jsp"%>
-</body>
