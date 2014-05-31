@@ -12,7 +12,7 @@
 
 	<context-param>
 		<param-name>br.com.caelum.vraptor.encoding</param-name>
-		<param-value>UTF-8</param-value>
+		<param-value>ISO-8859-1</param-value><!-- UTF-8  -->
 	</context-param>
 
 	<filter>
@@ -38,7 +38,7 @@
 	<jsp-config>
 		<jsp-property-group>
 			<url-pattern>*.jsp</url-pattern>
-			<page-encoding>UTF-8</page-encoding>
+			<page-encoding>ISO-8859-1</page-encoding><!--UTF-8  -->
 			<include-prelude>/WEB-INF/jsp/prelude.jspf</include-prelude>
 		</jsp-property-group>
 	</jsp-config>

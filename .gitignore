@@ -15,3 +15,6 @@ target/
 tmp/
 bin/
 .project
+target/surefire-reports/TEST-app.controllers.ItemExpireControllerTest.xml
+target/surefire-reports/TEST-app.controllers.ListaControllerTest.xml
+src/main/java/app/controllers/AuthController.java
