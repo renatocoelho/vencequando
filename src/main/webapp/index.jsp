@@ -4,18 +4,18 @@
 </head>
 <body>
       ------- VENCIMENTRO -------
-<form action="${pageContext.request.contextPath}/menu.jsp" method="post">
+<form action="${pageContext.request.contextPath}/login" method="post">
 	<br><br>
 	<div class="field">
-		Usuario:<br />
+		Usuário:<br />
 	
-		<input type="text" name="User" value=""/>
+		<input type="text" name="userName" value=""/>
 		<br>
 		Senha:<br />
-		<input type="text" name="Password" value=""/>
+		<input type="password" name="password" value=""/>
 		
 	<div class="actions">
-	  <button type="submit">send</button>
+	  <input type="submit" value='Enviar'/>
 	</div>
 	</div>
 </form>
